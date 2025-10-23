@@ -12,7 +12,7 @@ publishing {
         }
     }
 }
-
+forked)
 dependencies {
     ksp("com.squareup.moshi:moshi-kotlin-codegen:1.14.0")
     implementation("com.squareup.moshi:moshi:1.14.0")
